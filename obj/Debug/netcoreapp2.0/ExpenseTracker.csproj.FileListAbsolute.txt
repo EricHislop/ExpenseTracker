@@ -1,0 +1,10 @@
+C:\Users\EricH\Projects\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.deps.json
+C:\Users\EricH\Projects\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.runtimeconfig.json
+C:\Users\EricH\Projects\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.runtimeconfig.dev.json
+C:\Users\EricH\Projects\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.dll
+C:\Users\EricH\Projects\ExpenseTracker\bin\Debug\netcoreapp2.0\ExpenseTracker.pdb
+C:\Users\EricH\Projects\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\EricH\Projects\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\EricH\Projects\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.AssemblyInfo.cs
+C:\Users\EricH\Projects\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.dll
+C:\Users\EricH\Projects\ExpenseTracker\obj\Debug\netcoreapp2.0\ExpenseTracker.pdb
